@@ -1,7 +1,7 @@
 SparkFun Color LCD Shield Arduino Library
 ==========================================
 
-![Color LCD Shield](https://dlnmh9ip6v2uc.cloudfront.net/images/products/9/3/6/3/09363-01b_i_ma.jpg) 
+![Color LCD Shield](https://cdn.sparkfun.com/assets/parts/2/9/4/3/09363-01b.jpg) 
  
 [*Color LCD Shield (LCD-09363)*](https://www.sparkfun.com/products/9363)
 
